@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+   width: 610px;
+   height: 650px;
+   margin: 30px;
+   border: 2px solid black;
+}
+.row{
+   border: 2px solid red;
+    
+}
+
+
+.col {
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+}
+.col-md-6,.col-sm-3{
+    border: 2px solid green;
+    height: 200px;
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 2px solid black;
+    height: 1200px;
+}
+
+.col-md-3{
+   height: 100px;
+   width: 100px;  
+  border: 2px solid rgb(8, 172, 43);
+}

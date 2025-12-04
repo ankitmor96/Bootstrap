@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 900px; 
+    border: 2px solid black;
+}
+.row{
+    border: 2px solid green; 
+}
